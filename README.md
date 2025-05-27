@@ -3,6 +3,7 @@ This is a Date Idea Generator that generates date ideas based off the city you a
 
 ### Set-up
 1. Clone the repository
+```bash
 git clone git@github.com:irene-huang345/hcde438Final.git
 cd hcde438Final
 ```
