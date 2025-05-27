@@ -23,13 +23,13 @@ yarn dev
 ```
 
 Deliverables:
-FP2:
-Presentation Video: 
+FP2: < br / >
+
+Presentation Video (I'm so sorry that it is a little over time): https://washington.zoom.us/rec/share/pj3avYUBC7cGBJixbdC6nIjPCL1FdD0OdosLWz0ZkfQoFKeYNW24LyGQSeYMLiGP.SCI9rCrsS1jBN4Fk?startTime=1748326716000
+
 
 Summary of progress:
 I’ve accomplished the simple UI wireframes that I’ve sketched out in my proposal and implement the use state for these. I’m struggling with writing the request for the api  because I feel like the documentation isn’t the most straightforward. I’ve consulted a few Youtube videos to see how other people have implemented it but it seems that I’m lacking the understanding of the syntax to establish the call myself. I believe I need to understand this first before moving onto implementing the rest of my application.
-
-
 
 FP1:
 https://docs.google.com/document/d/1cUGCHUMKTfuPF4ITiqJOH7M-W8Ra7coF_eeNiwfoy08/edit?usp=sharing
