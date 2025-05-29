@@ -6,6 +6,8 @@ function Filters({ city, setCity, vibe, setVibe}) {
             <label>
                 City:
                 <select
+                 id="select-city"
+                 name="city"
                  value={city}
                  onChange={(e) => setCity(e.target.value)}
                  >
@@ -19,6 +21,8 @@ function Filters({ city, setCity, vibe, setVibe}) {
             <label>
                 Vibe:
                 <select
+                 id="select-vibe"
+                 name="vibe"
                  value={vibe}
                  onChange={(e) => setVibe(e.target.value)}
                  >
